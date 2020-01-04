@@ -14,6 +14,7 @@ open your microbit makecode project, in Extension, paste
 https://github.com/makecode-packages/ScrollText  
 
 to search box then search.
+(WARNING: This link does not always work and all the information here is potentially useless! Please be aware of this while trying!)
 
 ## Basic usage
 
